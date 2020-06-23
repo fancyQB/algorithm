@@ -6,9 +6,9 @@ from email.header import Header
 
 mail_server = 'smtp.163.com'
 mail_port = 25
-sender =  '15926440508@163.com'
-passwd = 'ZWUESNPGKYJEPTWG'
-receviers = '1365339838@qq.com'
+sender =  'xxxxxx@163.com'
+passwd = 'xxxxxxxxx'
+receviers = 'xxxxx@qq.com'
 
 
 message = MIMEMultipart()
